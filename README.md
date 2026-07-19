@@ -348,6 +348,66 @@ Analyzes relationship between treatment cost and hospital stay length by disease
 
 ---
 
+## Requirements & Step-by-Step Execution
+
+### System Requirements
+| Requirement | Details |
+|-------------|---------|
+| **Python** | 3.8 or higher |
+| **pip** | Latest version |
+| **Browser** | Chrome, Firefox, or Edge |
+| **RAM** | 4 GB minimum |
+| **Disk Space** | 200 MB for dependencies |
+
+### Step 1: Clone the Repository
+```bash
+git clone https://github.com/Asmit1434/healthcare-dashboard.git
+cd healthcare-dashboard
+```
+
+### Step 2: Create Virtual Environment (Recommended)
+```bash
+python -m venv venv
+# On Windows:
+venv\Scripts\activate
+# On macOS/Linux:
+source venv/bin/activate
+```
+
+### Step 3: Install Dependencies
+```bash
+pip install -r requirements.txt
+```
+
+### Step 4: Generate Sample Data (Optional)
+```bash
+python generate_data.py
+```
+This creates:
+- `patient_data.csv` (1,000 patient records)
+- `monthly_trends.csv` (12 monthly records)
+
+### Step 5: Run the Dashboard
+```bash
+streamlit run app.py
+```
+
+### Step 6: Access the Dashboard
+Open browser and navigate to:
+```
+http://localhost:8501
+```
+
+### Step 7: Explore the Dashboard
+1. **Sidebar Filters** - Select diseases and age groups to analyze
+2. **KPI Metrics** - View total patients, avg stay, readmission rate
+3. **Disease Prevalence** - Bar chart of patient counts by disease
+4. **Age Group Analysis** - Dual subplots for distribution and stay duration
+5. **Risk Factors** - Donut chart of risk factor distribution
+6. **Correlation Heatmap** - Relationships between variables
+
+---
+
 ## Screenshots
 
 ### Dashboard Overview - Key Metrics
