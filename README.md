@@ -1,9 +1,20 @@
 # Healthcare Analytics Dashboard
 
-![Python](https://img.shields.io/badge/Python-3.8%2B-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-1.32%2B-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-5.18%2B-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
-![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
+[![Python](https://img.shields.io/badge/Python-3.8%2B-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![Streamlit](https://img.shields.io/badge/Streamlit-1.32%2B-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://streamlit.io/)
+[![Plotly](https://img.shields.io/badge/Plotly-5.18%2B-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)](https://plotly.com/python/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=for-the-badge)](http://makeapullrequest.com)
+[![GitHub stars](https://img.shields.io/github/stars/Asmit1434/healthcare-dashboard?style=for-the-badge)](https://github.com/Asmit1434/healthcare-dashboard/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/Asmit1434/healthcare-dashboard?style=for-the-badge)](https://github.com/Asmit1434/healthcare-dashboard/network/members)
+
+<div align="center">
+
+### Live Demo: [https://healthcare-dashboard.streamlit.app](https://healthcare-dashboard.streamlit.app)
+
+![Dashboard Preview](screenshots/02_disease_prevalence.png)
+
+</div>
 
 ## Overview
 
