@@ -22,6 +22,7 @@ An interactive Streamlit web application for analyzing hospital and patient data
 - [Dashboard Sections](#dashboard-sections)
 - [Data Schema](#data-schema)
 - [Visualizations](#visualizations)
+- [Screenshots](#screenshots)
 - [Performance](#performance)
 - [Contributing](#contributing)
 - [License](#license)
@@ -344,6 +345,25 @@ Compares disease prevalence between male and female patients.
 
 ### 9. Cost vs. Stay Bubble Chart
 Analyzes relationship between treatment cost and hospital stay length by disease.
+
+---
+
+## Screenshots
+
+### Dashboard Overview - Key Metrics
+![Dashboard Overview](screenshots/01_dashboard_overview.png)
+
+### Disease Prevalence Analysis
+![Disease Prevalence](screenshots/02_disease_prevalence.png)
+
+### Age Group Analysis
+![Age Group Analysis](screenshots/03_age_group_analysis.png)
+
+### Risk Factor Distribution
+![Risk Factors](screenshots/04_risk_factors.png)
+
+### Correlation Heatmap
+![Correlation Heatmap](screenshots/05_correlation_heatmap.png)
 
 ---
 
